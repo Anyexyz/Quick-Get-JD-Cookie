@@ -12,6 +12,9 @@ pip install -r requirements.txt
 ```
 
 2. 运行脚本
+
+注意需要先修改一下脚本中chrome浏览器的路径
+
 ```shell
 python get_jd_cookie.py
 ```
